@@ -2,7 +2,6 @@
 
 # Welcome to my Github Profile!!
 
-*************************************************************************
 ### About me:
 As a Son of God, Husband, Father, and Software Developer I aspire to become a better version of myself every day while creating meaningful change in this world. I hope to inspire and positively impact every person and business I interact with. I am looking to work for and collaborate with a business that shares similar principles and ethics in growth.
 
