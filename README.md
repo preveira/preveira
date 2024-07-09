@@ -1,9 +1,9 @@
-![](<Profile-Header.png>)
+![](<Profile-Header-1.png>)
 
 # Welcome to my Github Profile!!
 
 ### About me:
-As a Son of God, Husband, Father, and Software Developer I aspire to become a better version of myself every day while creating meaningful change in this world. I hope to inspire and positively impact every person and business I interact with. I am looking to work for and collaborate with a business that shares similar principles and ethics in growth.
+As a dedicated Full-stack Developer, I am committed to delivering innovative and high-quality engineering solutions. With a solid foundation in diverse technologies, I aim to drive technological advancement and professional growth. I seek to work within a team that values creativity and ethical practices, aiming to make a significant positive impact on the global digital landscape and enhance user experiences. 
 
 *************************************************************************
 ### 𝗠𝘆 𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝘀𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:
